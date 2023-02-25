@@ -105,7 +105,7 @@ All open-source repo orted by stars. [here](https://github.com/windbless-outlook
 [Docker]:https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker
 
 <table><tbody>
-<tr><th> Application Development & Embedded Systems </th><th> Machine Learning & Computer Vision </th></tr>
+<tr><th> Application Development & Embedded Systems </th></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
