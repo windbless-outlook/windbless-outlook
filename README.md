@@ -27,8 +27,7 @@
 </p>
  
 <!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/windbless-outlook"><img src="https://img.shields.io/badge/GitHub-windbless-outlook-blue?logo=github" /></a>
+
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=windbless-outlook&abbreviated=true&color=yellow" />
